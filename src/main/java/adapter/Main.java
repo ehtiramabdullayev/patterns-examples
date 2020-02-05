@@ -13,13 +13,13 @@ public class Main {
 
         Duck turkeyAdapter = new TurkeyAdapter(wildTurkey);
 
-        System.out.println("Turkey says ... ");
-        wildTurkey.gobble();
-        wildTurkey.fly();
-
-
-        System.out.println("Duck says ... ");
-        testDuck(mallardDuck);
+//        System.out.println("Turkey says ... ");
+//        wildTurkey.gobble();
+//        wildTurkey.fly();
+//
+//
+//        System.out.println("Duck says ... ");
+//        testDuck(mallardDuck);
 
         System.out.println("Duckified turkey says ... ");
         testDuck(turkeyAdapter);
