@@ -1,5 +1,4 @@
-# patterns-examples
-## Design Patterns
+# Design Patterns
 A design pattern is a reusable solution to a recurring problem within a given context. It means, they are well tested solutions to general problems in software porgramming, they're usually regarded as best practices by some experts.
 
 Design Patterns were officially presented in the book "Design Patterns - Elements of Reusable Object-Oriented Software" which was written by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides. The authors are also known as Gang of Four (GoF).
@@ -20,13 +19,13 @@ Design Patterns are good practices, well tested solutions to common problems. Th
 ## Most common Design Patterns
 We'll explore the most common and used patterns:
 
-* Singleton
-* Strategy
-* Observer
-* Factory
-* Adapter
-* Builder
-* State
+* [Singleton](https://github.com/ehtiramabdullayev/patterns-examples#singleton)
+* [Strategy](https://github.com/ehtiramabdullayev/patterns-examples#strategy)
+* [Observer](https://github.com/ehtiramabdullayev/patterns-examples#observer)
+* [Factory](https://github.com/ehtiramabdullayev/patterns-examples#factory-method)
+* [Adapter](https://github.com/ehtiramabdullayev/patterns-examples#adapter)
+* [Builder](https://github.com/ehtiramabdullayev/patterns-examples#builder)
+* [State](https://github.com/ehtiramabdullayev/patterns-examples#state)
 
 
 ### Singleton
