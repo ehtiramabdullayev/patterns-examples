@@ -16,17 +16,17 @@ public class Main {
     BrandType brandType = BrandType.fromString(input);
     Choice choice = new Choice(brandType);
     List<String> prizes = new ArrayList<>();
-    if (choice.getOsType() == BrandType.ALL) {
+    if (choice.getBrandType() == BrandType.ALL) {
       prizes.add("Nokia 1100");
       prizes.add("Samsung Galaxy 22");
       prizes.add(("IPhone 13 Max Pro"));
-    } else if (choice.getOsType() == BrandType.SAMSUNG) {
+    } else if (choice.getBrandType() == BrandType.SAMSUNG) {
       prizes.add("Samsung Galaxy 22");
-    } else if (choice.getOsType() == BrandType.APPLE) {
+    } else if (choice.getBrandType() == BrandType.APPLE) {
       prizes.add(("IPhone 13 Max Pro"));
-    } else if (choice.getOsType() == BrandType.NOKIA) {
+    } else if (choice.getBrandType() == BrandType.NOKIA) {
       prizes.add("Nokia 1100");
-    } else if (choice.getOsType() == BrandType.ANY) {
+    } else if (choice.getBrandType() == BrandType.ANY) {
       prizes.add("Siemens M65");
 
     } else {

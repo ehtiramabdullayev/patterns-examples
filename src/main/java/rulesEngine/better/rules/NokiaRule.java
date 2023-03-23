@@ -8,7 +8,7 @@ public class NokiaRule implements IRule {
 
   @Override
   public boolean matches(Choice input) {
-    return input.getOsType() == BrandType.NOKIA || input.getOsType() == BrandType.ANY;
+    return input.getBrandType() == BrandType.NOKIA || input.getBrandType() == BrandType.ANY;
   }
 
   @Override

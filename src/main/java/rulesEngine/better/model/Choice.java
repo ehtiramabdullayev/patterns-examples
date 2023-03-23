@@ -21,14 +21,9 @@ public class Choice {
     this.model = model;
   }
 
-  public BrandType getOsType() {
+  public BrandType getBrandType() {
     return brandType;
   }
-
-  public void setOsType(BrandType brandType) {
-    this.brandType = brandType;
-  }
-
 
   @Override
   public String toString() {

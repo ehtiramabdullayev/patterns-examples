@@ -7,7 +7,7 @@ import rulesEngine.better.model.Choice;
 public class AppleRule implements IRule {
 
   public boolean matches(Choice input) {
-    return input.getOsType().equals(BrandType.APPLE) || input.getOsType().equals(BrandType.ALL);
+    return input.getBrandType().equals(BrandType.APPLE) || input.getBrandType().equals(BrandType.ALL);
   }
 
   public String process(Choice input) {
