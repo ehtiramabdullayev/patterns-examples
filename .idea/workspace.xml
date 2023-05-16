@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="48321ff7-de17-41cf-ae9a-fc63166009cf" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="48321ff7-de17-41cf-ae9a-fc63166009cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/better/IRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/better/IRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/better/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/better/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/better/model/BrandType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/better/model/BrandType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/better/model/Choice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/better/model/Choice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/better/rules/AppleRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/better/rules/AppleRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/better/rules/NokiaRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/better/rules/NokiaRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/better/rules/SamsungRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/better/rules/SamsungRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/better/rules/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/better/rules/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/old/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/old/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/patterns-examples.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractFactory/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractFactory/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractFactory/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/GUIFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractFactory/GUIFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractFactory/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractFactory/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/OSXButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractFactory/OSXButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/OSXFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractFactory/OSXFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/OSXList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractFactory/OSXList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapter/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapter/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapter/Turkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/Turkey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapter/TurkeyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/TurkeyAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapter/WildTurkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/WildTurkey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/HawaiianPizzaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/HawaiianPizzaBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/PizzaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/PizzaBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/SpicyPizzaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/SpicyPizzaBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/Waiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Waiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Cheese.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Cheese.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Olives.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Olives.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Peppers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Peppers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/decorator/ThickCrustPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/ThickCrustPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/decorator/ThinCrustPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/ThinCrustPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/decorator/ToppingDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/ToppingDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/CurrentConditionsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/CurrentConditionsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/DisplayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/DisplayElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/WeatherData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/WeatherSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/WeatherSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/DefaultQuack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/DefaultQuack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/FlyBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/FlyBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/FlyNoWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/FlyWithWings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/MuteQuack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/MuteQuack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/QuackBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/QuackBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/RubberDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/RubberDuck.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,107 +76,6 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/builder/SpicyPizzaBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-              <folding>
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractFactory/Component.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractFactory/Button.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractFactory/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractFactory/OSXList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-              <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractFactory/OSXButton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractFactory/GUIFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractFactory/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractFactory/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -122,6 +83,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -176,12 +140,16 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-131" />
     <option name="y" value="-7" />
     <option name="width" value="1549" />
     <option name="height" value="837" />
   </component>
+  <component name="ProjectId" id="2PsGVNoPpnSsi0EAzBBqg7ybdrz" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -220,48 +188,26 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/decorator" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/patterns/patterns-examples",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\P\checkout-ui-automation-tests\patterns-examples\src\main\java\decorator" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strategy.Main" />
-      <module name="patterns-examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="observer.Main" />
       <module name="patterns-examples" />
@@ -314,16 +260,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rulesEngine.better.Main" />
+      <module name="patterns-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rulesEngine.better.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -378,6 +338,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
